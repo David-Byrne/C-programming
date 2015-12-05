@@ -88,8 +88,6 @@ void initialisePlayers()
 		players[i].bankrupt = 0;
 		players[i].finalworth = 0;
 	}
-	players[0].balance = 100;
-	players[1].balance = 100;
 }
 
 void initialiseTiles()
